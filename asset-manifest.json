@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactSandbox/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ReactSandbox/static/js/main.18fb738e.chunk.js",
+    "main.js.map": "/ReactSandbox/static/js/main.18fb738e.chunk.js.map",
+    "runtime~main.js": "/ReactSandbox/static/js/runtime~main.af9a8d4b.js",
+    "runtime~main.js.map": "/ReactSandbox/static/js/runtime~main.af9a8d4b.js.map",
+    "static/js/2.9ddb0945.chunk.js": "/ReactSandbox/static/js/2.9ddb0945.chunk.js",
+    "static/js/2.9ddb0945.chunk.js.map": "/ReactSandbox/static/js/2.9ddb0945.chunk.js.map",
+    "index.html": "/ReactSandbox/index.html",
+    "precache-manifest.f643c2c2082ee88f18543c7565c8957a.js": "/ReactSandbox/precache-manifest.f643c2c2082ee88f18543c7565c8957a.js",
+    "service-worker.js": "/ReactSandbox/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ReactSandbox/static/css/main.2cce8147.chunk.css.map"
+  }
+}
